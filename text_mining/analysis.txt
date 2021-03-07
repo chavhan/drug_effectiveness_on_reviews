@@ -1,0 +1,29 @@
+Total Reviews - 213819
+Unique Review - 128475
+coupus documents - 128475
+Total terms - 68382
+
+Error -> Error: cannot allocate vector of size 65.5 Gb
+Solution ->  Need to dicrease the numbers of records 
+If I only select thouse records where 
+userful counts > 10 total records 133081      
+
+ 	variable q_zeros p_zeros q_na p_na q_inf p_inf   type unique
+1    drugName       0       0    0    0     0     0 character   2689
+2   condition       0       0    0    0     0     0 character    658
+3      review       0       0    0    0     0     0 character  78390
+4      rating       0       0    0    0     0     0   integer     10
+5        date       0       0    0    0     0     0 character   3548
+6 usefulCount       0       0    0    0     0     0   integer    386
+> 
+
+
+coupus documents - 78390
+Total terms - 68382
+
+Error: cannot allocate vector of size 71.6 Gb
+
+
+
+
+
