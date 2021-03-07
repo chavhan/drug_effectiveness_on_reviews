@@ -1,0 +1,40 @@
+data.frame':	1 obs. of  16 variables:
+ $ day   : num 1
+ $ effect: num 1
+ $ feel  : num 0
+ $ ive   : num 0
+ $ month : num 2
+ $ period: num 2
+ $ pill  : num 0
+ $ side  : num 0
+ $ start : num 0
+ $ take  : num 0
+ $ time  : num 3
+ $ week  : num 0
+ $ weight: num 0
+ $ work  : num 0
+ $ year  : num 0
+ $ y     : Factor w/ 2 levels "0","1": 1
+
+Factor w/ 2 levels "0","1": 2
+
+'data.frame':	1 obs. of  16 variables:
+ $ day   : num 0
+ $ effect: num 1
+ $ feel  : num 0
+ $ ive   : num 0
+ $ month : num 0
+ $ period: num 1
+ $ pill  : num 0
+ $ side  : num 2
+ $ start : num 0
+ $ take  : num 0
+ $ time  : num 0
+ $ week  : num 1
+ $ weight: num 0
+ $ work  : num 0
+ $ year  : num 3
+ $ y     : Factor w/ 1 level "1": 1
+
+
+hydra effective 
