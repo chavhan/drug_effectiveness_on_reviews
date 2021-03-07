@@ -1,0 +1,14 @@
+(1) Word Cloud of Mix words 
+(2) Term Frequency Graph 
+(3) Top 20 Terms 
+(4) Ten Topics having 10 term each 
+(5) Positive Word Cloud 
+(6) Top 20 positive  word frequency graph 
+(7) Negative words cloud 
+(8) Top 20 Negative word frequency graph 
+(9) Sentiment Graph 
+(10) Percentage base emotion graph 
+(11) LOTR Graph (by transform value)
+(12) Emotion percentage Graph 
+(13) Top 5 negative sentiments  
+(14) Top 5 positive sentiments  
